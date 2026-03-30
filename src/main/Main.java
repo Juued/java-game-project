@@ -1,3 +1,8 @@
+//This project was built while following a tutorial by RyiSnow
+//Video link: https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
+//Used for learning Java game development concepts
+
+
 package main;
 
 import javax.swing.JFrame;
